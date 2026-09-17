@@ -300,25 +300,25 @@ SELECT COUNT(*) FROM orders; -- 1
 
 ### 1. Test – Browser – localhost:8083/api/orders/test – Running 8083
 
-[Test](screenshots/demo1.png)
+[demo1](screenshots/demo1.png)
 
 ---
 
 ### 2. Get All Empty – Browser – [] – Before Order
 
-[Empty](screenshots/demo2.png)
+[demo2](screenshots/demo2.png)
 
 ---
 
 ### 3. Get All Clean – Browser – [{"id":2,...}] – After Fix
 
-[Clean](screenshots/demo3.png)
+[demo3](screenshots/demo3.png)
 
 ---
 
 ### 4. POST Success – Postman – 200 OK 440B – Main Proof
 
-[POST Success](screenshots/demo4.png)
+[demo4](screenshots/demo4.png)
 
 ---
 
