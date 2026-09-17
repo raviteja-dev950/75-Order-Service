@@ -1,4 +1,4 @@
-# 🎯 Project 75 – Order Service – MySQL Order Service | Spring Boot + MySQL + Without Lombok
+# 🎯 Project 75 – Order Service – MySQL Order Service | Spring Boot + MySQL 
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-21-E76F00?logo=openjdk&logoColor=white" alt="Java 21">
